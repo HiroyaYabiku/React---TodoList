@@ -6,9 +6,9 @@
 $ yarn install
 
 # serve with hot reload at localhost:3000
-yarn run start
+$ yarn run start
 
 # build
-yarn run build
+$ yarn run build
 </pre>
 
